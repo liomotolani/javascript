@@ -1,0 +1,9 @@
+Javascript is a scripting language used to make web pages interactive, it is object based and it runs on clients computer browser.
+
+
+5 ways Javascript can be applied to a web page 
+1. Form Validation
+2. Creating cookies
+3. Create animation
+4. Image manipulation
+5. Dynamic changes of contents.
